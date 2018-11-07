@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<OSCInputGroup>
+  <oscMessage>/unity/accelerometer</oscMessage>
+  <numInputs>6</numInputs>
+  <groupName>Inputs</groupName>
+  <inputNames>
+    <string>gravityX</string>
+    <string>gravityY</string>
+    <string>gravityZ</string>
+    <string>linearX</string>
+    <string>linearY</string>
+    <string>linearZ</string>
+  </inputNames>
+</OSCInputGroup>

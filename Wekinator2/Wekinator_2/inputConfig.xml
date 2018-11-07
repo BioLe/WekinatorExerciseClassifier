@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<OSCInputGroup>
+  <oscMessage>/unity/accelerometer</oscMessage>
+  <numInputs>6</numInputs>
+  <groupName>Inputs</groupName>
+  <inputNames>
+    <string>accelerometer-1</string>
+    <string>accelerometer-2</string>
+    <string>accelerometer-3</string>
+    <string>accelerometer-4</string>
+    <string>accelerometer-5</string>
+    <string>accelerometer-6</string>
+  </inputNames>
+</OSCInputGroup>
